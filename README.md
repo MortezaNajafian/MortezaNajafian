@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MortezaNajafian
-- 👀 I’m interested in Javascript, React, Typescript, React Native and etc.
+- 👀 I’m interested in Javascript, React, Typescript, React Native.
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on any react project
 - 📫 How to reach me najafianmorteza@gmail.com
